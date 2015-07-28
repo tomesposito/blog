@@ -20,7 +20,7 @@
 .Header-brand {
   color: color(var(--brand-color) lightness(+10%));
   text-decoration: none;
-  font-size: 1.75em; /* ~28px */
+  font-size: 1.5em; /* ~28px */
 }
 
 .Header-brandTxt {
@@ -40,7 +40,7 @@
   margin: 0;
   padding: 10px;
   font-weight: normal;
-  font-size: 4em;
+  font-size: 3em;
   line-height: 1em;
 }
 
